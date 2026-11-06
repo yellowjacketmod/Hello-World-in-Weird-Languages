@@ -1,0 +1,7 @@
+{
+  "namespace": "HelloWorld",
+  "command": {
+    "commandName": "printf",
+    "output": "Hello, World!"
+  }
+}
